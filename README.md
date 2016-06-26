@@ -47,3 +47,6 @@ git clone https://github.com/Leocoin-project/LEOcoin
 cd LEOcoin/src
 make -f makefile.unix 
 
+
+
+[![Join the chat at https://gitter.im/Leocoin-project/LEOcoin](https://badges.gitter.im/Leocoin-project/LEOcoin.svg)](https://gitter.im/Leocoin-project/LEOcoin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
